@@ -1,6 +1,7 @@
 # Welcome to...
 <img src="https://github.com/Grxcelynx/Grxcelynx/blob/main/READMEmain.gif" alt="logo GRXCELYN with a pomegranate in it">
 Pronounced: Grace-lyn
+
 ## What do you want to know? Well here's a little bit about me
 
 ### 👩🏻‍💻 I’m currently working on 
