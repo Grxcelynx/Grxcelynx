@@ -1,24 +1,24 @@
 # Welcome to GRXCELYN. Development
 
-### What do you want to know? Well here's a little bit about me
+## What do you want to know? Well here's a little bit about me
 
-- 👩🏻‍💻 I’m currently working on 
+### 👩🏻‍💻 I’m currently working on 
 * Frontend Development
 * WordPress Websites
 * HTML | CSS | SASS | PHP | JavaScript 
 
-- 🪴 I’m currently learning 
+### 🪴 I’m currently learning 
 * Project Management
 * Advanced PHP 
 
-- 🙇🏻‍♀️🙇🏻‍♂️ I’m looking to collaborate on ...
+### 🙇🏻‍♀️🙇🏻‍♂️ I’m looking to collaborate on ...
 * WordPress Sites
 * Frontend Web Design
 
-- 👁️ I’m looking for help with ...
+### 👁️ I’m looking for help with ...
  Anything, everywhere, all at once. 
 
-- 💬 Ask me about ...
+### 💬 Ask me about ...
 My jouney into Tech
 
 - 📫 How to reach me: 
