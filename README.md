@@ -3,30 +3,30 @@
 
 ## What do you want to know? Well here's a little bit about me
 
-### :female-technologist::skin-tone-2: I’m currently working on 
+### 👩🏻‍💻 I’m currently working on 
 * Frontend Development
 * WordPress Websites
 * HTML | CSS | SASS | PHP | JavaScript 
 
-### :potted_plant: I’m currently learning 
+### 🪴 I’m currently learning 
 * Project Management
 * Advanced PHP 
 
-### :woman-bowing::skin-tone-2::man-bowing::skin-tone-2: I’m looking to collaborate on ...
+### 🙇🏻‍♀️ 🙇🏻‍♂️I’m looking to collaborate on ...
 * WordPress Sites
 * Frontend Web Design
 
-### :eye: I’m looking for help with ...
+### 👁️ I’m looking for help with ...
   Anything, everywhere, all at once. 
 
-### :speech_balloon: Ask me about ...
+### 🗣️ Ask me about ...
   My journey into Tech
 
-### :calling: How to reach me: 
+### 📲 How to reach me: 
 * <a name="linkedin" href="https://www.linkedin.com/in/grace-birnam-74a761163/">LinkedIn</a>
 * <a name="site" href="https://grxcelyn.com/">My Portfolio Site</a>
 
-### :sparkles: Pronouns: She/They
+### ✨ Pronouns: She/They
 
 
 <!--
