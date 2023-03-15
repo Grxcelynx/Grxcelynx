@@ -16,16 +16,16 @@
 * Frontend Web Design
 
 ### 👁️ I’m looking for help with ...
- Anything, everywhere, all at once. 
+  Anything, everywhere, all at once. 
 
 ### 💬 Ask me about ...
-My jouney into Tech
+  My jouney into Tech
 
-- 📫 How to reach me: 
+### 📫 How to reach me: 
 <a name="linkedin" href="https://www.linkedin.com/in/grace-birnam-74a761163/">LinkedIn</a>
 <a name="site" href="https://grxcelyn.com/">My Portfolio Site</a>
 
-- ✨ Pronouns: Shey/They
+### ✨ Pronouns: Shey/They
 
 
 <!--
